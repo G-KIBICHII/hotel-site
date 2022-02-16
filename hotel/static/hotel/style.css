@@ -1,0 +1,74 @@
+body {
+	margin: 30px;
+	style="background-image: url(  'static {% \"hotel/images/56.jpg\" %}' );">
+}
+
+.top-div{
+	width: 30%;
+	
+	position: absolute;
+	top: 30%;
+	left: 0%;
+	padding-left: 25px;
+	}
+p {
+	font-family: sans-serif;
+
+}
+
+h1{
+	background-color: darkgoldenrod;
+	text-align: center;
+	padding: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	display: inline-flex;
+	margin: 1px;
+	border-radius: 30px;
+}
+
+.nav-list {
+	font-family: sans-serif;
+	display:flex;
+	background-color: lightblue;
+	border-color: unset;
+	border-radius: 10px;
+	text-align: right;
+	text-underline-position: unset;
+}
+
+
+li {
+	list-style-type: none;
+	margin: 10px 15px;
+	font-size: 25px;
+	}
+
+
+
+.homeform {
+	position: absolute;
+	top: 30%;
+	left: 60%;
+	padding: 15px;
+	width: 30%;
+	height: 20%;
+	border-radius: 10px;
+	background-color: darkgoldenrod;
+
+}
+.login1{
+	width: 100%;
+	border-radius: 10px;
+}
+
+
+.submitbtn {
+	border-radius: 20px;
+	border-color: grey;
+	background-color: grey;
+	padding: 10px;
+	text-align: center;
+	font-size: 20px;
+	width: 20%;
+}
